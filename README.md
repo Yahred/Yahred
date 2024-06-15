@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yahred!</h1>
-<h3 align="center">A computer science freak</h3>
 
 - 🌱 I’m currently learning **Go, AI**
 
