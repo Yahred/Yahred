@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahred!</h1>
 
-- 🌱 I’m currently learning **Go, AI**
-
-- 💬 Ask me about **Angular, ReactJS, NodeJS**
-
 - ⚡ Fun fact **I'm not actually a cat**
 
 <h3 align="left">Connect with me:</h3>
