@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahred!</h1>
 
-- ⚡ Fun fact **I'm not actually a cat**
+- ⚡ Fun fact **I'm not a cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
